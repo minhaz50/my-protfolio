@@ -3,7 +3,7 @@
     "id": 21,
     "name": "Par-T-ake",
     "type": "Computer accessories Website",
-    "image": "https://cdn.dribbble.com/users/10244/screenshots/3384141/drbl.png?compress=1&resize=400x300",
+    "image": "images/screenshots/computerPart.png",
     "description": "This is a full-stack responsive react project where users can buy products from here. Users can go order and go to the order page. They can also go to the Dashboard.",
     "links": [
       {
@@ -25,44 +25,39 @@
   },
   {
     "id": 22,
-    "name": "Easy Inventory",
-    "type": "Inventory Manager Website",
-    "image": "images/screenshots/easyInventory.png",
-    "description": "This is another full stack responsive web application to manage store inventory. Where users can update the stock of a product by restocking or delivering products. The user can add or delete products from the list. Users can report bugs from the bug report section on the home page.",
+    "name": "Fitness care",
+    "type": "Fitness care Website",
+    "image": "images/screenshots/fitness.png",
+    "description": "This is a simple react website with routing and firebase authentication.. Where you can find the health care related tips and courses. ",
     "links": [
       {
         "id": 41,
         "title": "Live Site",
-        "url": "https://crick-freak-assignment.web.app/"
+        "url": "https://fitness-care-a83c9.web.app/"
       },
       {
         "id": 42,
         "title": "Client Side Code",
-        "url": "https://github.com/Labib2003/assignment-11-full-stack-web-app-client"
-      },
-      {
-        "id": 43,
-        "title": "Server Side Code",
-        "url": "https://github.com/Labib2003/assignment-11-full-stack-web-app-server"
+        "url": "https://github.com/minhaz50/fitness-care"
       }
     ]
   },
   {
     "id": 23,
-    "name": "Guitar Tutor",
-    "type": "Independent Service Provider Website",
-    "image": "images/screenshots/guitarTutor.png",
+    "name": "Headphones Worlds",
+    "type": "Headphones accessorise Website",
+    "image": "images/screenshots/headphones.png",
     "description": "This is a simple react website with routing and firebase authentication. Users can log in using email-password or google pop-up. Users cannot access the checkout page without logging in.",
     "links": [
       {
         "id": 51,
         "title": "Live Site",
-        "url": "https://guitar-tutor-assignment.web.app/"
+        "url": "https://head-phones-worlds.netlify.app/"
       },
       {
         "id": 52,
         "title": "Client Side Code",
-        "url": "https://github.com/Labib2003/assignment-10-firebase-authentication"
+        "url": "https://github.com/minhaz50/headphones-worlds"
       }
     ]
   }
