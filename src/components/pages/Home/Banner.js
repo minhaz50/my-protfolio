@@ -42,9 +42,9 @@ const Banner = () => {
             rel="noreferrer"
             href="https://drive.google.com/file/d/1Ea4_6efFUOPZMLzDfgBRbd1sGpREzvP2/view?usp=sharing"
             target="_blank"
-            className="btn text-white"
+            className="btn text-white uppercase bg-orange-400"
           >
-            Download Resume
+            Hire Me
           </a>
         </motion.div>
       </div>
